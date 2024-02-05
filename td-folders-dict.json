@@ -1,0 +1,80 @@
+{
+  "create_new_folder": {
+    "RU": "Создать новую папку",
+    "EN": "Create new folder",
+    "DE": "Neuer Ordner",
+    "ES": "Crear nueva carpeta"
+  },
+  "name": {
+    "RU": "Название",
+    "EN": "Name",
+    "DE": "Name",
+    "ES": "Nombre"
+  },
+  "close": {
+    "RU": "Закрыть",
+    "EN": "Close",
+    "DE": "Schließen",
+    "ES": "Cerrar"
+  },
+  "create": {
+    "RU": "Создать",
+    "EN": "Create",
+    "DE": "Erstellen",
+    "ES": "Crear"
+  },
+  "saving": {
+    "RU": "Сохраняем..",
+    "EN": "Saving..",
+    "DE": "Speichern...",
+    "ES": "Guardar.."
+  },
+  "folder_settings": {
+    "RU": "Настройки папки",
+    "EN": "Folder Settings",
+    "DE": "Ordner-Einstellungen",
+    "ES": "Ajustes de carpeta"
+  },
+  "title": {
+    "RU": "Заголовок",
+    "EN": "Title",
+    "DE": "Titel",
+    "ES": "Título"
+  },
+  "folder_title": {
+    "RU": "Заголовок папки",
+    "EN": "Folder title",
+    "DE": "Ordner-Titel",
+    "ES": "Título de carpeta"
+  },
+  "archive_folder_desc": {
+    "RU": "Архивная папка: <span style=\"font-weight: 300;\">при публикации всех страниц в сайте, страницы в этой папке будут пропущены.</span>",
+    "EN": "Archive folder: <span style=\"font-weight: 300;\">when you publish all pages of the website, the pages in this folder will be skipped.</span>",
+    "DE": "Archiv-Ordner: <span style=\"font-weight: 300;\">Wenn Sie alle Seiten der Website veröffentlichen, werden die Seiten in diesem Ordner übersprungen.</span>",
+    "ES": "Carpeta de archivo: <span style=\"font-weight: 300;\">cuando publica todas las páginas del sitio web, las páginas que estén en esta carpeta se omiten.</span>"
+  },
+  "sure_to_delete": {
+    "RU": "Вы точно уверены? Удалить папку и все страницы в ней?",
+    "EN": "Are you sure you want to delete the folder and all its pages?",
+    "DE": "Sind Sie sicher, dass Sie den Ordner und alle darin enthaltenen Seiten löschen möchten?",
+    "ES": "¿Está seguro de que desea eliminar la carpeta y todas sus páginas?"
+  },
+  "delete_folder": {
+    "RU": "Удалить папку",
+    "EN": "Delete folder",
+    "DE": "Ordner löschen",
+    "ES": "Eliminar carpeta"
+  },
+  "save_changes": {
+    "RU": "Сохранить изменения",
+    "EN": "Save changes",
+    "DE": "Änderungen speichern",
+    "ES": "Guardar cambios"
+  },
+  "cancel": {
+    "RU": "Отмена",
+    "EN": "Cancel",
+    "DE": "Abbrechen",
+    "ES": "Cancelar"
+  }
+}
