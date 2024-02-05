@@ -64,17 +64,5 @@
     "EN": "Delete folder",
     "DE": "Ordner löschen",
     "ES": "Eliminar carpeta"
-  },
-  "save_changes": {
-    "RU": "Сохранить изменения",
-    "EN": "Save changes",
-    "DE": "Änderungen speichern",
-    "ES": "Guardar cambios"
-  },
-  "cancel": {
-    "RU": "Отмена",
-    "EN": "Cancel",
-    "DE": "Abbrechen",
-    "ES": "Cancelar"
   }
 }
